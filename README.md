@@ -1,1 +1,3 @@
 # manhwa-scrapper
+
+Currently this is a fast demo for the small project, in the future will be split into separate files and added a database soo the information is not just converted into some html files but accessed using a web application. With some UI and navigation throw all of the manhwa, currently it's possible to scrap only asuracomics but in the future will add different other manhwa platforms
